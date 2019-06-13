@@ -5,3 +5,8 @@ HTML
 Java code
 JS
 CSS
+
+Orther specifications :
+UX
+UI
+Visual design

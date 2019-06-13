@@ -1,3 +1,7 @@
 Welcome to my world of codes.
 
 Hope you will enjoy playing around the magical codes.
+
+Java code
+JS
+HTML
